@@ -33,7 +33,7 @@ function MSTP (state) {
         galleryArr: state.gallery
     }
 }
-
+    
 // function MDTP (dispatch) {
 //     return {
 //         galleryFetch: function() {
